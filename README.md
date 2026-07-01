@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Kolluri Shiva Kumar</h1>
+<h1 align="center">👋 Hi, I'm Shiva Kumar Kolluri</h1>
 <h3 align="center">🚀 Python Full Stack Developer | Electronics & Communication Engineer</h3>
 
 <p align="center">
@@ -37,13 +37,13 @@ I enjoy creating technical content and sharing knowledge through online platform
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://github.com/shivakumarkolluri30/shivakumarkolluri30)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivakumarkolluri)
+[![LinkedIn](www.linkedin.com/in/shivakumarkolluri)]
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_URL)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium)](YOUR_MEDIUM_URL)
