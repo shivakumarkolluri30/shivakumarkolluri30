@@ -37,17 +37,14 @@ I enjoy creating technical content and sharing knowledge through online platform
 
 **Tools**
 
-![Git](https://github.com/shivakumarkolluri30/shivakumarkolluri30)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/shivakumarkolluri30/shivakumarkolluri30)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivakumarkolluri30/shivakumarkolluri30)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/shivakumarkolluri)]
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium)](YOUR_MEDIUM_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivakumarkolluri)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/shivakumarkolluri30)
 
 ## 📊 GitHub Stats
 
@@ -70,6 +67,7 @@ I enjoy creating technical content and sharing knowledge through online platform
 
 ## 📫 Let's Connect
 
-I'm always interested in learning, collaborating, and exploring new opportunities in software development and technology.
+💼 LinkedIn: https://www.linkedin.com/in/shivakumarkolluri
+💻 GitHub: https://github.com/shivakumarkolluri30
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Let's connect and grow together in technology.
